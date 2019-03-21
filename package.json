@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "colors": "^1.3.2",
+    "encoding-japanese": "^1.0.29",
+    "kuromojin": "^1.4.0"
+  }
+}
